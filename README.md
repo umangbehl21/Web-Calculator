@@ -1,7 +1,7 @@
 # Basic-Web-Calculator
 
 
-<img width="331" alt="image" src="https://github.com/devansareen01/web-calculator/assets/97303760/4e2ebfa2-5b05-41d6-a30a-822fced271fa">
+<img width="331" alt="image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/97303760/257907123-4e2ebfa2-5b05-41d6-a30a-822fced271fa.png">
 
 # Web Calculator
 
@@ -23,7 +23,7 @@ This is a basic calculator project that performs four arithmetic operations: add
 
 ## Demo
 
-You can try out the calculator by visiting [this link](https://devansareen01.github.io/web-calculator/
+You can try out the calculator by visiting [this link]( https://github.com/umangbehl21/Web-Calculator
 ).
 
 ## Installation
@@ -33,7 +33,7 @@ If you want to run this calculator locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/devansareen01/web-calculator.git
+   git clone  https://github.com/umangbehl21/Web-Calculator
 
 2. Open the index.html file in your web browser.
 
